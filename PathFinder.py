@@ -95,6 +95,7 @@ def main(stdscr):
     stdscr.getch()
 
 
+# Run the game in a wrapper
 wrapper(main)
 
 
